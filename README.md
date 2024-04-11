@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en el desarrollo de una web de creación y gestión de ligas deportivas **SportsLeagueManager**
 
-- 👨‍💻 Mis proyectos están disponibles en [eduardodazavillanueva.netlify.app](eduadodazavillanueva.netlify.app)
+- 👨‍💻 Mis proyectos están disponibles en [https://eduardodazavillanueva.netlify.app](eduadodazavillanueva.netlify.app)
 
 - 📫 Contacta conmigo en **eduardodazavillanueva@gmail.com**
 
